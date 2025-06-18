@@ -1,0 +1,7 @@
+{
+  "versionCode": 5,
+  "versionName": "1.2.0",
+  "apkUrl": "https://yourusername.github.io/myapp-update-server/myapp_latest.apk",
+  "sha256": "abcdef123456....",
+  "changelog": "• Added offline mode"
+}
