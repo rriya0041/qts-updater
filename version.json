@@ -16,7 +16,7 @@
       "name": "Font",
       "url": "https://raw.githubusercontent.com/rriya0041/qts-updater/main/open_sans_regular.ttf",
       "filename": "open_sans_regular.ttf",
-      "force_update": false
+      "force_update": true
     },
     {
       "name": "Train_Data",
