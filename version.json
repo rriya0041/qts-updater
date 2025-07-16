@@ -10,7 +10,7 @@
       "name": "Station_Data",
       "url": "https://raw.githubusercontent.com/rriya0041/qts-updater/main/stations.txt",
       "filename": "stations.txt",
-      "force_update": false
+      "force_update": true
     },
     {
       "name": "Font",
