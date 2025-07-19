@@ -10,7 +10,7 @@
       "name": "CodexDB",
       "url": "https://raw.githubusercontent.com/rriya0041/qts-updater/main/theBadCoder.db",
       "filename": "theBadCoder.db",
-      "force_update": false
+      "force_update": true
     },
     {
       "name": "Station_Data",
