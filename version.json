@@ -22,7 +22,7 @@
       "name": "Train_Data",
       "url": "https://raw.githubusercontent.com/rriya0041/qts-updater/main/trains.txt",
       "filename": "trains.txt",
-      "force_update": false
+      "force_update": true
     }
   ]
 }
