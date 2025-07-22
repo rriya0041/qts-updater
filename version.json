@@ -10,7 +10,7 @@
       "name": "CodexDB",
       "url": "https://raw.githubusercontent.com/rriya0041/qts-updater/main/theBadCoder.db",
       "filename": "theBadCoder.db",
-      "force_update": true
+      "force_update": false
     },
     {
       "name": "Station_Data",
@@ -28,7 +28,7 @@
       "name": "Train_Data",
       "url": "https://raw.githubusercontent.com/rriya0041/qts-updater/main/trains.txt",
       "filename": "trains.txt",
-      "force_update": true
+      "force_update": false
     }
   ]
 }
