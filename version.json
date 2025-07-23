@@ -4,7 +4,7 @@
     "download_url": "https://raw.githubusercontent.com/rriya0041/qts-updater/main/app-release.apk",
     "force_update": false
   },
-"notice": "Undefined Ka Maa Ka Bhosda",
+"notice": "To avoid the 'undefined' error, before 10-15 minutes of booking, keep CAPTCHA autofill to manual and try the booking and go upto the payment page. Then you can again enable CAPTCHA autofill during actual booking. Make sure not to try more than once or else you'll get 'Unable to process error'\n\n\n'undefined' error से बचने के लिए, बुकिंग से 10-15 मिनट पहले CAPTCHA ऑटोफिल को मैनुअल पर सेट करें और एक बार बुकिंग ट्राय करें और पेमेंट पेज तक जाएं। इसके बाद, वास्तविक बुकिंग के समय आप फिर से CAPTCHA ऑटोफिल को ऑन कर सकते हैं। ध्यान रखें कि एक से ज़्यादा बार ट्राय न करें, वरना 'Unable to process' error आ सकता है।",
   "resources": [
     {
       "name": "CodexDB",
